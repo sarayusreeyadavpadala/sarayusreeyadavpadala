@@ -1,1 +1,1 @@
-👋 Hi, I’m Sarayu Sree
+👋 I’m Sarayu Sree
