@@ -3,7 +3,7 @@
 My stats
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sarayusreeyadavpadala&theme=dark&background=000000)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sarayusreeyadavpadala&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarayusreeyadavpadala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
