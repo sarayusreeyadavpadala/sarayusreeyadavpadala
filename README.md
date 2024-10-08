@@ -1,6 +1,6 @@
 👋 I’m Sarayu Sree
 
-Stats
+*Stats*
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sarayusreeyadavpadala&theme=vision-friendly-dark)
